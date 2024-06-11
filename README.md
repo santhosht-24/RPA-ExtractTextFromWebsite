@@ -1,4 +1,4 @@
-This repo contains UiPath Studio files for extracting text from a website as required and write the output to a word document.
+This repo contains UiPath Studio files for extracting text of required data fields from a website as required and write the output to a word document.
 
 An RPA bot executes the operation. 
 
